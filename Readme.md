@@ -24,13 +24,15 @@ be used to create slides with
 
 ### To generate an animated GIF
 
-Call:
+In the `Examples` folder, call:
 
     ./togif.sh somefile.svg
 
 Where `somefile.svg` is one of the SVG files. The result is a file called
 `somefile.gif`, which is an
 [animated GIF](https://en.wikipedia.org/wiki/GIF#Animated_GIF) of the slideshow.
+**NOTE:** inkscapeslide (on which this script relies) does not work if the file
+is in a subfolder.
 
 ### To generate a multi-page PDF
 
@@ -53,7 +55,7 @@ Changing speed and size
 -----------------------
 
 - To change the speed of the generated GIFs, modify the value of variable
-  `DELAY` in `tofig.sh`.
+  `DELAY` in `Examples/tofig.sh`.
 - To change the size of the generated GIFs, replace the parameter `-d 64`
-  in line 171 of `svgtopng.py` by another value (64 is the resolution in dpi
-  of the exported images).
+  in line 171 of `Examples/svgtopng.py` by another value (64 is the resolution
+  in dpi of the exported images).
