@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="581.48407"
-   height="193.58551"
-   viewBox="0 0 153.85099 51.219502"
+   width="533.8222"
+   height="143.99176"
+   viewBox="0 0 141.24046 38.097822"
    version="1.1"
    id="svg1133"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -26,21 +26,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="497.65239"
-     inkscape:cy="87.908579"
+     inkscape:cx="255.02913"
+     inkscape:cy="59.758572"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer14"
      showgrid="false"
      units="px"
-     inkscape:window-width="1680"
-     inkscape:window-height="1028"
-     inkscape:window-x="1280"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1" />
   <metadata
      id="metadata1130">
     <rdf:RDF>
@@ -57,7 +57,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="content"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.69324088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -294,9 +294,8 @@
      inkscape:label="V13"
      id="g7650"
      inkscape:groupmode="layer"
-     sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        transform="matrix(0.28222223,0,0,0.28222223,50.029452,-332.49619)"
        id="g7648">
@@ -326,9 +325,8 @@
      inkscape:groupmode="layer"
      id="g7660"
      inkscape:label="V11"
-     sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        id="g7658"
        transform="matrix(0.28222223,0,0,0.28222223,50.029452,-332.49619)">
@@ -359,8 +357,7 @@
      inkscape:label="V14"
      id="g7670"
      inkscape:groupmode="layer"
-     sodipodi:insensitive="true"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        transform="matrix(0.28222223,0,0,0.28222223,50.029452,-332.49619)"
        id="g7668">
@@ -391,8 +388,7 @@
      id="g7680"
      inkscape:label="V15"
      style="display:inline"
-     sodipodi:insensitive="true"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        id="g7678"
        transform="matrix(0.28222223,0,0,0.28222223,50.029452,-332.49619)">
@@ -423,8 +419,7 @@
      inkscape:label="V19"
      id="g7690"
      inkscape:groupmode="layer"
-     sodipodi:insensitive="true"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        transform="matrix(0.28222223,0,0,0.28222223,50.029452,-332.49619)"
        id="g7688">
@@ -455,8 +450,7 @@
      id="g7700"
      inkscape:label="V12"
      style="display:inline"
-     sodipodi:insensitive="true"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        id="g7698"
        transform="matrix(0.28222223,0,0,0.28222223,50.029452,-332.49619)">
@@ -483,12 +477,11 @@
     </g>
   </g>
   <g
-     transform="translate(-4.4634458,-5.2074539)"
+     transform="translate(-10.025698,-10.88111)"
      style="display:inline"
      inkscape:groupmode="layer"
      id="g7924"
-     inkscape:label="V1X"
-     sodipodi:insensitive="true">
+     inkscape:label="V1X">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -506,8 +499,7 @@
      id="layer12"
      inkscape:label="Arrow6"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)"
-     sodipodi:insensitive="true">
+     transform="translate(-10.025698,-10.88111)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -524,7 +516,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Arrow7"
-     sodipodi:insensitive="true">
+     transform="translate(-5.5622519,-5.6736565)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -541,9 +533,8 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Arrow5"
-     sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -560,9 +551,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Arrow1"
-     sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -579,9 +569,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Arrow2"
-     sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -598,9 +587,8 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Arrow3"
-     sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -617,9 +605,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Arrow0"
-     sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -636,9 +623,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Arrow4"
-     sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -655,7 +641,7 @@
      inkscape:label="BG"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-4.4634458,-111.70741)">
+     transform="translate(-10.025698,-117.38107)">
     <rect
        style="opacity:1;fill:#008080;fill-opacity:1;stroke:#000000;stroke-width:0.70555556;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.83248728"
        id="rect7299"
@@ -1110,8 +1096,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Pull0"
-     sodipodi:insensitive="true"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        id="g7353"
        transform="translate(9.2604167,-172.83478)">
@@ -1137,8 +1122,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Pull1"
-     sodipodi:insensitive="true"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        id="g7353-3"
        transform="translate(-45.797106,-172.83478)">
@@ -1165,8 +1149,7 @@
      inkscape:label="V02"
      id="g7596"
      inkscape:groupmode="layer"
-     sodipodi:insensitive="true"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        transform="matrix(0.28222223,0,0,0.28222223,-9.5716523,-332.49619)"
        id="g7594">
@@ -1197,8 +1180,7 @@
      id="g7586"
      inkscape:label="V09"
      style="display:inline"
-     sodipodi:insensitive="true"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        id="g7584"
        transform="matrix(0.28222223,0,0,0.28222223,-9.5716523,-332.49619)">
@@ -1229,8 +1211,7 @@
      inkscape:label="V05"
      id="g7576"
      inkscape:groupmode="layer"
-     sodipodi:insensitive="true"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        transform="matrix(0.28222223,0,0,0.28222223,-9.5716523,-332.49619)"
        id="g7574">
@@ -1260,9 +1241,8 @@
      inkscape:groupmode="layer"
      id="g7566"
      inkscape:label="V04"
-     sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        id="g7564"
        transform="matrix(0.28222223,0,0,0.28222223,-9.5716523,-332.49619)">
@@ -1292,9 +1272,8 @@
      inkscape:label="V01"
      id="g7556"
      inkscape:groupmode="layer"
-     sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        transform="matrix(0.28222223,0,0,0.28222223,-9.5716523,-332.49619)"
        id="g7554">
@@ -1324,9 +1303,8 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="V03"
-     sodipodi:insensitive="true"
      style="display:inline"
-     transform="translate(-4.4634458,-5.2074539)">
+     transform="translate(-10.025698,-10.88111)">
     <g
        id="g6012-6"
        transform="matrix(0.28222223,0,0,0.28222223,-9.5716523,-332.49619)">
@@ -1353,12 +1331,11 @@
     </g>
   </g>
   <g
-     transform="translate(-4.4634458,-5.2074539)"
+     transform="translate(-10.025698,-10.88111)"
      inkscape:groupmode="layer"
      id="g7890"
      inkscape:label="V0X"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
