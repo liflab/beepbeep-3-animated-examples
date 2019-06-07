@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="545.27899"
-   height="124.80628"
-   viewBox="0 0 144.27173 33.021663"
+   width="563.48206"
+   height="124.8063"
+   viewBox="0 0 149.08796 33.021667"
    version="1.1"
    id="svg1133"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="397.975"
-     inkscape:cy="-62.545434"
+     inkscape:zoom="1.4"
+     inkscape:cx="272.9498"
+     inkscape:cy="29.97633"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="0"
-     inkscape:window-y="399"
+     inkscape:window-width="1680"
+     inkscape:window-height="1028"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="1"
      fit-margin-left="1"
@@ -57,7 +57,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="content"
-     transform="translate(-6.3794669,-15.957269)">
+     transform="translate(-1.5632429,-15.957269)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.69324088px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -189,9 +189,8 @@
      inkscape:label="BG"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-6.3794669,-122.45722)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-122.45722)"
+     style="display:inline">
     <rect
        style="opacity:1;fill:#008080;fill-opacity:1;stroke:#000000;stroke-width:0.70555556;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.83248728"
        id="rect7299"
@@ -203,7 +202,7 @@
        ry="0.8145647" />
     <g
        id="g17450"
-       transform="matrix(0.28222223,0,0,0.28222223,67.246532,-57.413873)"
+       transform="matrix(0.28222223,0,0,0.28222223,62.181651,-57.413873)"
        style="display:inline;fill:#008080;fill-opacity:1">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:#0b280b;stroke-width:2.49583793;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;enable-background:accumulate"
@@ -237,7 +236,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 57.12662,378.81889 -47.110379,0 23.555189,-40.79878 z"
-       transform="matrix(0,0.04611835,-0.08565179,0,114.97806,140.66726)"
+       transform="matrix(0,0.04611835,-0.08565179,0,109.91318,140.66726)"
        inkscape:transform-center-x="-2.0636753" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#93ac93;fill-opacity:1;fill-rule:nonzero;stroke:#0b280b;stroke-width:0.74457121;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker:none;enable-background:accumulate"
@@ -284,7 +283,7 @@
        inkscape:transform-center-x="-2.063677" />
     <g
        style="display:inline;fill:#008080;fill-opacity:1"
-       transform="matrix(0.28222223,0,0,0.28222223,8.3136024,-57.413873)"
+       transform="matrix(0.28222223,0,0,0.28222223,3.7778881,-57.413873)"
        id="g3133">
       <rect
          transform="rotate(90)"
@@ -330,7 +329,7 @@
          y="192.29482">2</tspan></text>
     <path
        inkscape:transform-center-x="-2.0636753"
-       transform="matrix(0,0.04611835,-0.08565179,0,56.045129,140.66726)"
+       transform="matrix(0,0.04611835,-0.08565179,0,51.509415,140.66726)"
        d="m 57.12662,378.81889 -47.110379,0 23.555189,-40.79878 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -454,8 +453,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Q0"
-     transform="translate(-1.9160212,-10.846065)"
-     sodipodi:insensitive="true">
+     transform="translate(2.9002028,-10.846065)">
     <g
        id="g6012"
        transform="matrix(0.28222223,0,0,0.28222223,15.303871,-349.46744)">
@@ -485,8 +483,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Q1"
-     transform="translate(-1.9160212,-10.846065)"
-     sodipodi:insensitive="true">
+     transform="translate(2.9002028,-10.846065)">
     <g
        transform="matrix(0.28222223,0,0,0.28222223,21.813375,-349.46744)"
        id="g6017">
@@ -517,8 +514,7 @@
      id="layer7"
      inkscape:label="Q2"
      style="display:inline"
-     transform="translate(-1.9160212,-10.846065)"
-     sodipodi:insensitive="true">
+     transform="translate(2.9002028,-10.846065)">
     <rect
        y="15.779467"
        x="118.70625"
@@ -544,8 +540,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Q3"
-     transform="translate(-1.9160212,-10.846065)"
-     sodipodi:insensitive="true">
+     transform="translate(2.9002028,-10.846065)">
     <g
        id="g6037"
        transform="matrix(0.28222223,0,0,0.28222223,34.832362,-349.46744)">
@@ -575,8 +570,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Q4"
-     transform="translate(-1.9160212,-10.846065)"
-     sodipodi:insensitive="true">
+     transform="translate(2.9002028,-10.846065)">
     <g
        id="g6037-3"
        transform="matrix(0.28222223,0,0,0.28222223,41.305353,-349.46744)">
@@ -607,8 +601,7 @@
      id="layer10"
      inkscape:label="Q5"
      style="display:inline"
-     transform="translate(-1.9160212,-10.846065)"
-     sodipodi:insensitive="true">
+     transform="translate(2.9002028,-10.846065)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -625,11 +618,10 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Push0"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
        id="g3157-3"
-       transform="translate(-75.370006)">
+       transform="translate(-80.18623)">
       <path
          inkscape:connector-curvature="0"
          id="path7341-6-6"
@@ -652,12 +644,11 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Push1"
-     transform="translate(-6.3794669,-15.957269)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)"
+     style="display:inline">
     <g
        id="g3157"
-       transform="translate(-16.303442)">
+       transform="translate(-21.648833)">
       <path
          inkscape:connector-curvature="0"
          id="path7341-6"
@@ -681,10 +672,9 @@
      inkscape:label="V02"
      id="g7596"
      inkscape:groupmode="layer"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
-       transform="matrix(0.28222223,0,0,0.28222223,-74.913679,-332.49619)"
+       transform="matrix(0.28222223,0,0,0.28222223,-64.79111,-332.49619)"
        id="g7594">
       <rect
          y="1294.1819"
@@ -713,11 +703,10 @@
      id="g7586"
      inkscape:label="V09"
      style="display:inline"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
        id="g7584"
-       transform="matrix(0.28222223,0,0,0.28222223,-74.913679,-332.49619)">
+       transform="matrix(0.28222223,0,0,0.28222223,-64.79111,-332.49619)">
       <rect
          ry="3.99263"
          style="fill:#aaffee;fill-opacity:1;stroke:#22280b;stroke-width:1.30000007;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -745,10 +734,9 @@
      inkscape:label="V05"
      id="g7576"
      inkscape:groupmode="layer"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
-       transform="matrix(0.28222223,0,0,0.28222223,-74.913679,-332.49619)"
+       transform="matrix(0.28222223,0,0,0.28222223,-64.79111,-332.49619)"
        id="g7574">
       <rect
          y="1294.1819"
@@ -777,11 +765,10 @@
      id="g7566"
      inkscape:label="V04"
      style="display:inline"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
        id="g7564"
-       transform="matrix(0.28222223,0,0,0.28222223,-74.913679,-332.49619)">
+       transform="matrix(0.28222223,0,0,0.28222223,-64.79111,-332.49619)">
       <rect
          ry="3.99263"
          style="fill:#aaffee;fill-opacity:1;stroke:#22280b;stroke-width:1.30000007;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -809,10 +796,9 @@
      id="g7556"
      inkscape:groupmode="layer"
      style="display:inline"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
-       transform="matrix(0.28222223,0,0,0.28222223,-74.913679,-332.49619)"
+       transform="matrix(0.28222223,0,0,0.28222223,-64.79111,-332.49619)"
        id="g7554">
       <rect
          y="1294.1819"
@@ -841,11 +827,10 @@
      id="layer14"
      inkscape:label="V03"
      style="display:inline"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
        id="g6012-6"
-       transform="matrix(0.28222223,0,0,0.28222223,-74.913679,-332.49619)">
+       transform="matrix(0.28222223,0,0,0.28222223,-64.79111,-332.49619)">
       <rect
          ry="3.99263"
          style="fill:#aaffee;fill-opacity:1;stroke:#22280b;stroke-width:1.30000007;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -869,21 +854,20 @@
     </g>
   </g>
   <g
-     transform="translate(-6.3794669,-15.957269)"
+     transform="translate(-1.5632429,-15.957269)"
      inkscape:groupmode="layer"
      id="g7890"
      inkscape:label="V0X"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="13.555982"
+       x="23.678551"
        y="38.920799"
        id="text7894"><tspan
          sodipodi:role="line"
          id="tspan7892"
-         x="13.555982"
+         x="23.678551"
          y="38.920799"
          style="font-weight:bold;fill:#ff0000;stroke-width:0.26458332">×</tspan></text>
   </g>
@@ -892,11 +876,10 @@
      id="g7700"
      inkscape:label="V12"
      style="display:inline"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
        id="g7698"
-       transform="matrix(0.28222223,0,0,0.28222223,-15.75579,-332.49619)">
+       transform="matrix(0.28222223,0,0,0.28222223,-6.4013566,-332.49619)">
       <rect
          ry="3.99263"
          style="fill:#aaffee;fill-opacity:1;stroke:#22280b;stroke-width:1.30000007;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -924,10 +907,9 @@
      inkscape:label="V19"
      id="g7690"
      inkscape:groupmode="layer"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
-       transform="matrix(0.28222223,0,0,0.28222223,-15.75579,-332.49619)"
+       transform="matrix(0.28222223,0,0,0.28222223,-6.4013566,-332.49619)"
        id="g7688">
       <rect
          y="1294.1819"
@@ -956,11 +938,10 @@
      id="g7680"
      inkscape:label="V15"
      style="display:inline"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
        id="g7678"
-       transform="matrix(0.28222223,0,0,0.28222223,-15.75579,-332.49619)">
+       transform="matrix(0.28222223,0,0,0.28222223,-6.4013566,-332.49619)">
       <rect
          ry="3.99263"
          style="fill:#aaffee;fill-opacity:1;stroke:#22280b;stroke-width:1.30000007;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -988,10 +969,9 @@
      inkscape:label="V14"
      id="g7670"
      inkscape:groupmode="layer"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
-       transform="matrix(0.28222223,0,0,0.28222223,-15.75579,-332.49619)"
+       transform="matrix(0.28222223,0,0,0.28222223,-6.4013566,-332.49619)"
        id="g7668">
       <rect
          y="1294.1819"
@@ -1020,11 +1000,10 @@
      id="g7660"
      inkscape:label="V11"
      style="display:inline"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
        id="g7658"
-       transform="matrix(0.28222223,0,0,0.28222223,-15.75579,-332.49619)">
+       transform="matrix(0.28222223,0,0,0.28222223,-6.4013566,-332.49619)">
       <rect
          ry="3.99263"
          style="fill:#aaffee;fill-opacity:1;stroke:#22280b;stroke-width:1.30000007;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1052,10 +1031,9 @@
      id="g7650"
      inkscape:groupmode="layer"
      style="display:inline"
-     transform="translate(-6.3794669,-15.957269)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.5632429,-15.957269)">
     <g
-       transform="matrix(0.28222223,0,0,0.28222223,-15.75579,-332.49619)"
+       transform="matrix(0.28222223,0,0,0.28222223,-6.4013566,-332.49619)"
        id="g7648">
       <rect
          y="1294.1819"
@@ -1080,21 +1058,20 @@
     </g>
   </g>
   <g
-     transform="translate(-6.3794669,-15.957269)"
+     transform="translate(-1.5632429,-15.957269)"
      style="display:inline"
      inkscape:groupmode="layer"
      id="g7924"
-     inkscape:label="V1X"
-     sodipodi:insensitive="true">
+     inkscape:label="V1X">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="72.713875"
+       x="82.068306"
        y="38.920799"
        id="text7894-0"><tspan
          sodipodi:role="line"
          id="tspan7892-2"
-         x="72.713875"
+         x="82.068306"
          y="38.920799"
          style="font-weight:bold;fill:#ff0000;stroke-width:0.26458332">×</tspan></text>
   </g>
