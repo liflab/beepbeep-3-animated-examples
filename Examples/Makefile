@@ -13,7 +13,7 @@ svgs = $(wildcard *.svg)
 pdfs = $(svgs:.svg=.pdf)
 gifs = $(svgs:.svg=.gif)
 
-.DEFAULT_GOAL: pdf
+.DEFAULT_GOAL := pdf
 
 %.pdf: %.svg
 	inkscapeslide $<
@@ -28,7 +28,6 @@ all: pdf gif
 pdf: $(pdfs)
 
 gif: $(gifs)
-	./togif.sh $^
 
 clean:
 	rm -f $(gifs) $(pdfs)
