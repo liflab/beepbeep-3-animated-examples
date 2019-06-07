@@ -4,16 +4,16 @@
 # (C) 2019 Sylvain Hallé
 #
 # Usage: make [all|pdf|gif]
+#
+# Basic structure taken from:
+# http://nuclear.mutantstargoat.com/articles/make/
 # ----------------------------------------------------------------------------
 
+svgs = $(wildcard *.svg)
+pdfs = $(svgs:.svg=.pdf)
+gifs = $(svgs:.svg=.gif)
+
 .DEFAULT_GOAL: pdf
-
-all: pdf gif
-
-pdf: *.pdf
-	./tosinglepage.sh
-
-gif: *.gif
 
 %.pdf: %.svg
 	inkscapeslide $<
@@ -21,10 +21,17 @@ gif: *.gif
 %.gif: %.svg
 	./togif.sh $<
 
-.PHONY: clean
+.PHONY: clean all pdf gif
+
+all: pdf gif
+
+pdf: $(pdfs)
+
+gif: $(gifs)
+	./togif.sh $^
 
 clean:
-	rm -f *.pdf *.svg
+	rm -f $(gifs) $(pdfs)
 
 help:
 	@echo "Generates the PDFs and the animated GIFs in this folder"
