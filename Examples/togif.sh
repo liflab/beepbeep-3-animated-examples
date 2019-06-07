@@ -1,5 +1,8 @@
 #! /bin/bash
 
+# Trap Ctrl-c and call ctrl_c()
+trap ctrl_c INT
+
 # Delay in milliseconds between each frame of the animation
 DELAY=100
 
@@ -16,9 +19,6 @@ done) | convert -delay $DELAY -dispose previous - -layers optimize ${1%.*}.gif
 
 # Quit
 rm -f inkscapeslide*.png
-
-# trap ctrl-c and call ctrl_c()
-trap ctrl_c INT
 
 function ctrl_c()
 {

@@ -53,6 +53,8 @@ Dependencies
   Although the present repository provides a modified ("hacked") version,
   you still must install the original first in order to grab all the
   dependencies it needs and to generate the PDFs.
+- [CPDF](https://community.coherentpdf.com/) is optional. It is required to
+  create PDFs that start automatically in single-page mode.
 - [ImageMagick](https://imagemagick.org/). Depending on if you have version
   6 or 7, you may have to change the occurrence of `convert` by `magick convert`
   in `togif.sh` (the name of the executable changed in version 7).

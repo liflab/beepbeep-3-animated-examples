@@ -8,9 +8,10 @@
 
 .DEFAULT_GOAL: pdf
 
-all: pdfs gifs
+all: pdf gif
 
 pdf: *.pdf
+	./tosinglepage.sh
 
 gif: *.gif
 
