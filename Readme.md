@@ -22,6 +22,12 @@ The repository is made of SVG files, which are multi-layer documents that can
 be used to create slides with
 [inkscapeslide](https://github.com/sylvainhalle/inkscapeslide).
 
+### To generate everything
+
+In the `Examples` folder, call:
+
+    make all
+
 ### To generate an animated GIF
 
 In the `Examples` folder, call:
@@ -50,6 +56,7 @@ Dependencies
 - [ImageMagick](https://imagemagick.org/). Depending on if you have version
   6 or 7, you may have to change the occurrence of `convert` by `magick convert`
   in `togif.sh` (the name of the executable changed in version 7).
+- [GNU Make](https://www.gnu.org/software/make/manual/html_node/index.html)
 
 Changing speed and size
 -----------------------
