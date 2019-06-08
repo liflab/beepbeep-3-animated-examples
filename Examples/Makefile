@@ -23,11 +23,11 @@ pngs = $(svgs:.svg=.png)
 	./togif.sh $<
 
 %.png: %.pdf
-	convert $< $(basename $<).png
+	convert -background transparent -density 36 $<[0] $(basename $<).png
 
 .PHONY: clean all pdf gif png
 
-all: pdf gif
+all: pdf gif png
 
 pdf: $(pdfs)
 
@@ -42,7 +42,7 @@ help:
 	@echo "Generates the PDFs and the animated GIFs in this folder"
 	@echo "Usage: make [all|pdf|gif]"
 	@echo ""
-	@echo "pdf   Generates/updates the multi-page PDFs (default)"
-	@echo "gif   Generates/updates the animated GIFs"
-	@echo "all   Generates/updates both"
+	@echo "pdf   Generates the multi-page PDFs (default)"
+	@echo "gif   Generates the animated GIFs"
+	@echo "all   Generates both PDFs and GIFs"
 	@echo "png   Generates PNG thumbnails for each example"
