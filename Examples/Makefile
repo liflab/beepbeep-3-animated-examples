@@ -3,7 +3,7 @@
 # in this repository
 # (C) 2019 Sylvain Hallé
 #
-# Usage: make [all|pdf|gif]
+# Usage: make [all|pdf|gif|png]
 #
 # Basic structure taken from:
 # http://nuclear.mutantstargoat.com/articles/make/
@@ -12,6 +12,7 @@
 svgs = $(wildcard *.svg)
 pdfs = $(svgs:.svg=.pdf)
 gifs = $(svgs:.svg=.gif)
+pngs = $(svgs:.svg=.png)
 
 .DEFAULT_GOAL := pdf
 
@@ -21,13 +22,18 @@ gifs = $(svgs:.svg=.gif)
 %.gif: %.svg
 	./togif.sh $<
 
-.PHONY: clean all pdf gif
+%.png: %.pdf
+	convert $< $(basename $<).png
+
+.PHONY: clean all pdf gif png
 
 all: pdf gif
 
 pdf: $(pdfs)
 
 gif: $(gifs)
+
+png: $(pngs)
 
 clean:
 	rm -f $(gifs) $(pdfs)
@@ -39,3 +45,4 @@ help:
 	@echo "pdf   Generates/updates the multi-page PDFs (default)"
 	@echo "gif   Generates/updates the animated GIFs"
 	@echo "all   Generates/updates both"
+	@echo "png   Generates PNG thumbnails for each example"
