@@ -20,7 +20,7 @@ How does it work?
 
 The repository is made of SVG files, which are multi-layer documents that can
 be used to create slides with
-[inkscapeslide](https://github.com/sylvainhalle/inkscapeslide).
+[inkscapeslidex](https://github.com/sylvainhalle/inkscapeslidex).
 
 ### To generate everything
 
@@ -32,32 +32,25 @@ In the `Examples` folder, call:
 
 In the `Examples` folder, call:
 
-    ./togif.sh somefile.svg
+    inkscapeslidex --format gif somefile.svg
 
 Where `somefile.svg` is one of the SVG files. The result is a file called
 `somefile.gif`, which is an
 [animated GIF](https://en.wikipedia.org/wiki/GIF#Animated_GIF) of the slideshow.
-**NOTE:** inkscapeslide (on which this script relies) does not work if the file
-is in a subfolder.
 
 ### To generate a multi-page PDF
 
 Call:
 
-    inkscapeslide somefile.svg
+    inkscapeslidex somefile.svg
 
 Dependencies
 ------------
 
-- [inkscapeslide](https://github.com/sylvainhalle/inkscapeslide).
-  Although the present repository provides a modified ("hacked") version,
-  you still must install the original first in order to grab all the
-  dependencies it needs and to generate the PDFs.
+- [inkscapeslidex](https://github.com/sylvainhalle/inkscapeslidex)
 - [CPDF](https://community.coherentpdf.com/) is optional. It is required to
   create PDFs that start automatically in single-page mode.
-- [ImageMagick](https://imagemagick.org/). Depending on if you have version
-  6 or 7, you may have to change the occurrence of `convert` by `magick convert`
-  in `togif.sh` (the name of the executable changed in version 7).
+- [ImageMagick](https://imagemagick.org/)
 - [GNU Make](https://www.gnu.org/software/make/manual/html_node/index.html)
 
 Changing speed and size
@@ -65,6 +58,6 @@ Changing speed and size
 
 - To change the speed of the generated GIFs, modify the value of variable
   `DELAY` in `Examples/tofig.sh`.
-- To change the size of the generated GIFs, replace the parameter `-d 64`
+- To change the size of the generated PNGs, replace the parameter `-d 64`
   in line 171 of `Examples/svgtopng.py` by another value (64 is the resolution
   in dpi of the exported images).

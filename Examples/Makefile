@@ -1,7 +1,7 @@
 # ----------------------------------------------------------------------------
 # A simple makefile to generate the PDFs and/or the animated GIFs
 # in this repository
-# (C) 2019 Sylvain Hallé
+# (C) 2019-2026 Sylvain Hallé
 #
 # Usage: make [all|pdf|gif|png]
 #
@@ -17,10 +17,10 @@ pngs = $(svgs:.svg=.png)
 .DEFAULT_GOAL := pdf
 
 %.pdf: %.svg
-	inkscapeslide $<
+	inkscapeslidex $<
 
 %.gif: %.svg
-	./togif.sh $<
+	inkscapeslidex --format gif $<
 
 %.png: %.pdf
 	convert -background transparent -density 36 $<[0] $(basename $<).png
@@ -36,13 +36,14 @@ gif: $(gifs)
 png: $(pngs)
 
 clean:
-	rm -f $(gifs) $(pdfs)
+	rm -f $(gifs) $(pdfs) $(pngs)
 
 help:
 	@echo "Generates the PDFs and the animated GIFs in this folder"
-	@echo "Usage: make [all|pdf|gif]"
+	@echo "Usage: make [all|pdf|gif|clean]"
 	@echo ""
 	@echo "pdf   Generates the multi-page PDFs (default)"
 	@echo "gif   Generates the animated GIFs"
 	@echo "all   Generates both PDFs and GIFs"
 	@echo "png   Generates PNG thumbnails for each example"
+	@echo "clean Removes all files except SVGs"
