@@ -3,23 +3,27 @@
 # in this repository
 # (C) 2019-2026 Sylvain Hallé
 #
-# Usage: make [all|pdf|gif|png]
+# Usage: make [all|pdf|gif|png|clean]
 #
 # Basic structure taken from:
 # http://nuclear.mutantstargoat.com/articles/make/
 # ----------------------------------------------------------------------------
 
-svgs = $(wildcard *.svg)
-pdfs = $(svgs:.svg=.pdf)
-gifs = $(svgs:.svg=.gif)
-pngs = $(svgs:.svg=.png)
+svgs  := $(wildcard *.svg) $(wildcard *.svgz)
+
+bases := $(svgs:.svg=)
+bases := $(bases:.svgz=)
+
+pdfs  := $(addsuffix .pdf,$(bases))
+gifs  := $(addsuffix .gif,$(bases))
+pngs  := $(addsuffix .png,$(bases))
 
 .DEFAULT_GOAL := pdf
 
-%.pdf: %.svg
+%.pdf: %.svg %.svgz
 	inkscapeslidex $<
 
-%.gif: %.svg
+%.gif: %.svg %.svgz
 	inkscapeslidex --format gif $<
 
 %.png: %.pdf
